@@ -1,6 +1,8 @@
 # Rossman Sales Prediction
 
-
+<p align="center">
+<img src = "Image/online-food-ordering-2.jpg" width = 300 height=200>
+</p>
 
 
 
